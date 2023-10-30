@@ -2,6 +2,7 @@
 tags:
   - Column_Databases
   - Databases
+  - CBD
 ---
 ### Disclaimer:
 Probably not relevant material for exam, just know that it's the inspiration of Columnar Databases.

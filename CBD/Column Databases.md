@@ -3,6 +3,7 @@ tags:
   - Databases
   - DataBase_Type
   - Column_Databases
+  - CBD
 ---
 # Concept
 
@@ -30,7 +31,7 @@ While a column database will store it as such:
 	
 ## Cons
 
-- Queries that might've been standard in other DBs ([[OLTP]]), will not execute in Column Databases.
+- Queries that might've been standard in other DBs ([OLTP](CBD/OLTP)), will not execute in Column Databases.
 	Ex: Due to the different structure of the DB, queries that often use joins and such operations are not possible. Also, incremental loading while possible is highly discouraged.
 <br>
 - Writing is slower in general compared to other DBs.
@@ -49,3 +50,4 @@ While a column database will store it as such:
 
 [[Cassandra]], [Apache HBase](https://hbase.apache.org/), [Apache Accumulo](https://accumulo.apache.org/), [[Google Bigtable]], [HyperTable](https://hypertable.org/).
 
+Next 

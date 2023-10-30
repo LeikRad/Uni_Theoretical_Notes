@@ -2,6 +2,7 @@
 tags:
   - Column_Databases
   - Databases
+  - CBD
 ---
 # Introduction
 Facebook's open source response to the unveiling of [Google's Bigtable](obsidian://open?vault=Uni_Theoretical_Notes&file=CBD%2FGoogle%20Bigtable), Cassandra was (and still is sadly) implemented in Java.
