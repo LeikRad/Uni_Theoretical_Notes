@@ -1,6 +1,0 @@
----
-tags:
-  - Security
-  - Vulnerability
-  - Databases
----
